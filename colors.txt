@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 green (test branch)
-=======
-blue
->>>>>>> master
